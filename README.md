@@ -1,7 +1,7 @@
 <h1 align="center">📈 Crypto Compare MP4 Generator 📉</h1>
 
 <p align="center">
-  <strong>A Python-based tool by <a href="https://github.com/DiBenD">@Dibend</a> with a Gradio web interface to generate animated MP4 videos of cryptocurrency price history with synchronized audio.</strong>
+  <strong>A Python-based tool by <a href="https://github.com/DiBenD">@DiBenD</a> with a Gradio web interface to generate animated MP4 videos of cryptocurrency price history with synchronized audio.</strong>
 </p>
 
 <p align="center">
