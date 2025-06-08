@@ -1,6 +1,3 @@
-Excellent, thank you. That's very helpful.
-Based on your repository Dibend/crypto-compare-mp4-gen, I've updated the documentation to include the correct author, project name, and repository URL.
-Here is the revised README with the new information incorporated.
 <h1 align="center">📈 Crypto Compare MP4 Generator 📉</h1>
 
 <p align="center">
