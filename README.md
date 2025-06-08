@@ -1,7 +1,10 @@
-<h1 align="center">📈 Crypto Price Animator 📉</h1>
+Excellent, thank you. That's very helpful.
+Based on your repository Dibend/crypto-compare-mp4-gen, I've updated the documentation to include the correct author, project name, and repository URL.
+Here is the revised README with the new information incorporated.
+<h1 align="center">📈 Crypto Compare MP4 Generator 📉</h1>
 
 <p align="center">
-  <strong>A Python-based tool with a Gradio web interface to generate animated MP4 videos of cryptocurrency price history with synchronized audio.</strong>
+  <strong>A Python-based tool by <a href="https://github.com/Dibend">@Dibend</a> with a Gradio web interface to generate animated MP4 videos of cryptocurrency price history with synchronized audio.</strong>
 </p>
 
 <p align="center">
@@ -49,9 +52,9 @@
 <h2>🚀 Installation</h2>
 <ol>
   <li>
-    <strong>Clone the repository (or download the script):</strong>
-    <pre><code>git clone https://github.com/your-username/crypto-price-animator.git
-cd crypto-price-animator</code></pre>
+    <strong>Clone the repository:</strong>
+    <pre><code>git clone https://github.com/Dibend/crypto-compare-mp4-gen.git
+cd crypto-compare-mp4-gen</code></pre>
   </li>
   <li>
     <strong>Install the required Python libraries:</strong>
@@ -94,7 +97,7 @@ FFMPEG_EXECUTABLE_PATH = ffmpeg</code></pre>
 <h2>▶️ How to Run</h2>
 <p>Once you have completed the installation and configuration, you can run the application with the following command:</p>
 <pre><code>python your_script_name.py</code></pre>
-<p>This will launch the Gradio web interface. Open the provided URL (usually <code>http://127.0.0.1:7860</code>) in your web browser to start using the Crypto Price Animator.</p>
+<p>This will launch the Gradio web interface. Open the provided URL (usually <code>http://127.0.0.1:7860</code>) in your web browser to start using the Crypto Compare MP4 Generator.</p>
 
 <hr>
 
@@ -176,3 +179,4 @@ FFMPEG_EXECUTABLE_PATH = ffmpeg</code></pre>
 
 <h2>📜 License</h2>
 <p>This project is licensed under the terms of the <strong>GNU General Public License v3.0</strong>. For the full license text, please see the <code>LICENSE</code> file or visit <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener noreferrer">the official GNU website</a>.</p>
+
